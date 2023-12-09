@@ -49,23 +49,6 @@ To build a Keras model that converts grayscale images to colored images.
 
 ---
 
-## Key Concepts Explored
-
-1. Understanding the business context.
-2. Implementing autoencoders.
-3. Leveraging transfer learning and backbone concepts.
-4. Exploring the VGG16 model architecture.
-5. Using the VGG16 model.
-6. Rescaling images using ImageDataGenerator.
-7. Converting RGB to LAB format.
-8. Building a sequential model.
-9. Compiling and training model with suitable parameters.
-10. Saving the trained model for future use.
-11. Interpreting the generated results.
-12. Making predictions on test data using the trained model.
-
----
-
 ## Getting Started
 
 There are two ways to execute the end to end flow.
